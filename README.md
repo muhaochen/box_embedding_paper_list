@@ -14,7 +14,7 @@ This is an (incomplete) paper list about recent advances of (Probablistic) Box E
 1. **``Improving Local Identifiability in Probabilistic Box Embeddings.``**  
 *Shib Dasgupta\*, Michael Boratko\*, Dongxu Zhang, Luke Vilnis, Xiang Li, Andrew McCallum.* (**NeurIPS 2020**) \[[paper](https://proceedings.neurips.cc/paper/2020/file/6dbbe6abe5f14af882ff977fc3f35501-Paper.pdf)\]  
 
-1. **``BoxE: A Box Embedding Model for Knowledge Base Completionures.``**  
+1. **``BoxE: A Box Embedding Model for Knowledge Base Completion.``**  
 *Ralph Abboud, Ismail Ceylan, Thomas Lukasiewicz, Tommaso Salvatori.* (**NeurIPS 2020**) \[[paper](https://proceedings.neurips.cc/paper/2020/file/6dbbe6abe5f14af882ff977fc3f35501-Paper.pdf)\]  
 
 1. **``Query2box: Reasoning Over Knowledge Graphs In Vector Space Using Box Embeddings.``**  
