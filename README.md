@@ -33,5 +33,5 @@ This is an (incomplete) paper list about the emerging research direction of (Pro
 
 
 ### Visual Perception
-1. **``Representing Joint Hierarchies with Box Embeddings.``**  
-*Anita Rau, Guillermo Garcia-Hernando, Danail Stoyanov, Gabriel J. Brostow, Daniyar Turmukhambetov.* (**ECCV 2020**) \[[paper](Predicting Visual Overlap of Images Through Interpretable Non-Metric Box Embeddings)\]  
+1. **``Predicting Visual Overlap of Images Through Interpretable Non-Metric Box Embeddings.``**  
+*Anita Rau, Guillermo Garcia-Hernando, Danail Stoyanov, Gabriel J. Brostow, Daniyar Turmukhambetov.* (**ECCV 2020**) \[[paper](https://arxiv.org/abs/2008.05785)\]  
