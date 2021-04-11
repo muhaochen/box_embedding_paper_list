@@ -1,5 +1,5 @@
 # Box Embedding Paper List
-This is an (incomplete) paper list about the emerging research direction of (Probablistic) Box Embeddings. Pull requests are welcome.
+This is an (incomplete) paper list about recent advances of (Probablistic) Box Embeddings. Pull requests are welcome.
 
 
 ## Papers
