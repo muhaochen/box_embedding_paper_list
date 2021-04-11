@@ -9,7 +9,7 @@ This is an (incomplete) paper list about the emerging research direction of (Pro
 *L Vilnis\*, X Li\*, S Murty, A McCallum.* (**ACL 2018**) \[[paper](https://www.aclweb.org/anthology/P18-1025.pdf)\]\[[repo](https://github.com/Lorraine333/box_embeddings)\]  
 
 1. **``Probabilistic Embedding of Knowledge Graphs with Box Lattice Measures.``**  
-*Xiang Li\∗, Luke Vilnis∗, Dongxu Zhang, Michael Boratko, Andrew McCallum.* (**ICLR 2019**) \[[paper](https://openreview.net/attachment?id=H1xSNiRcF7&name=pdf)\]  
+*Xiang Li\∗, Luke Vilnis\∗, Dongxu Zhang, Michael Boratko, Andrew McCallum.* (**ICLR 2019**) \[[paper](https://openreview.net/attachment?id=H1xSNiRcF7&name=pdf)\]  
 
 1. **``Improving Local Identifiability in Probabilistic Box Embeddings.``**  
 *Shib Dasgupta\*, Michael Boratko\*, Dongxu Zhang, Luke Vilnis, Xiang Li, Andrew McCallum.* (**NeurIPS 2020**) \[[paper](https://proceedings.neurips.cc/paper/2020/file/6dbbe6abe5f14af882ff977fc3f35501-Paper.pdf)\]  
