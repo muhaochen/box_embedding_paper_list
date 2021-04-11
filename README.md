@@ -24,7 +24,7 @@ This is an (incomplete) paper list about the emerging research direction of (Pro
 *Dhruvesh Patel, Shib Sankar Dasgupta, Michael Boratko, Xiang Li, Luke Vilnis, Andrew McCallum.* (**AKBC 2020**) \[[paper](https://openreview.net/pdf?id=J246NSqR_l)\]  
 
 1. **``Probabilistic Box Embeddings for Uncertain Knowledge Graph Reasoning.``**  
-*Xuelu Chen*, Michael Boratko*, Muhao Chen, Shib Sankar Dasgupta, Xiang Li, Andrew McCallum.* (**NAACL 2021**) \[[paper](TBA)\]\[[repo](https://github.com/stasl0217/beurre)\]  
+*Xuelu Chen\*, Michael Boratko\*, Muhao Chen, Shib Sankar Dasgupta, Xiang Li, Andrew McCallum.* (**NAACL 2021**) \[[paper](TBA)\]\[[repo](https://github.com/stasl0217/beurre)\]  
 
 
 ### Information Extraction
