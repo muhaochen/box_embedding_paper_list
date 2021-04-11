@@ -9,10 +9,10 @@ This is an (incomplete) paper list about recent advances of (Probablistic) Box E
 *L Vilnis\*, X Li\*, S Murty, A McCallum.* (**ACL 2018**) \[[paper](https://www.aclweb.org/anthology/P18-1025.pdf)\]\[[repo](https://github.com/Lorraine333/box_embeddings)\]  
 
 1. **``Smoothing the Geometry of Probabilistic Box Embeddings.``**  
-*Xiang Li\*, Luke Vilnis\*, Dongxu Zhang, Michael Boratko, Andrew McCallum.* (**ICLR 2019**) \[[paper](https://openreview.net/attachment?id=H1xSNiRcF7&name=pdf)\]  
+*Xiang Lorraine Li\*, Luke Vilnis\*, Dongxu Zhang, Michael Boratko, Andrew McCallum.* (**ICLR 2019**) \[[paper](https://openreview.net/attachment?id=H1xSNiRcF7&name=pdf)\]  
 
 1. **``Improving Local Identifiability in Probabilistic Box Embeddings.``**  
-*Shib Dasgupta\*, Michael Boratko\*, Dongxu Zhang, Luke Vilnis, Xiang Li, Andrew McCallum.* (**NeurIPS 2020**) \[[paper](https://proceedings.neurips.cc/paper/2020/file/6dbbe6abe5f14af882ff977fc3f35501-Paper.pdf)\]  
+*Shib Dasgupta\*, Michael Boratko\*, Dongxu Zhang, Luke Vilnis, Xiang Lorraine Li, Andrew McCallum.* (**NeurIPS 2020**) \[[paper](https://proceedings.neurips.cc/paper/2020/file/6dbbe6abe5f14af882ff977fc3f35501-Paper.pdf)\]  
 
 1. **``BoxE: A Box Embedding Model for Knowledge Base Completion.``**  
 *Ralph Abboud, Ismail Ceylan, Thomas Lukasiewicz, Tommaso Salvatori.* (**NeurIPS 2020**) \[[paper](https://proceedings.neurips.cc/paper/2020/file/6dbbe6abe5f14af882ff977fc3f35501-Paper.pdf)\]  
@@ -21,15 +21,15 @@ This is an (incomplete) paper list about recent advances of (Probablistic) Box E
 *H Ren, W Hu, J Leskovec.* (**ICLR 2020**) \[[paper](https://openreview.net/pdf/fe83d2016118d370eb96ed4781cda179f98f8b64.pdf)\]  
 
 1. **``Representing Joint Hierarchies with Box Embeddings.``**  
-*Dhruvesh Patel\*, Shib Sankar Dasgupta\*, Michael Boratko, Xiang Li, Luke Vilnis, Andrew McCallum.* (**AKBC 2020**) \[[paper](https://openreview.net/pdf?id=J246NSqR_l)\]  
+*Dhruvesh Patel\*, Shib Sankar Dasgupta\*, Michael Boratko, Xiang Lorraine Li, Luke Vilnis, Andrew McCallum.* (**AKBC 2020**) \[[paper](https://openreview.net/pdf?id=J246NSqR_l)\]  
 
 1. **``Probabilistic Box Embeddings for Uncertain Knowledge Graph Reasoning.``**  
-*Xuelu Chen\*, Michael Boratko\*, Muhao Chen, Shib Sankar Dasgupta, Xiang Li, Andrew McCallum.* (**NAACL 2021**) \[[paper](TBA)\]\[[repo](https://github.com/stasl0217/beurre)\]  
+*Xuelu Chen\*, Michael Boratko\*, Muhao Chen, Shib Sankar Dasgupta, Xiang Lorraine Li, Andrew McCallum.* (**NAACL 2021**) \[[paper](TBA)\]\[[repo](https://github.com/stasl0217/beurre)\]  
 
 
 ### Information Extraction
 1. **``Embedding Semantic Taxonomies.``**  
-*Dhruvesh Patel\*, Shib Sankar Dasgupta\*, Michael Boratko, Xiang Li, Luke Vilnis, Andrew McCallum.* (**COLING 2020**) \[[paper](https://www.aclweb.org/anthology/2020.coling-main.110/)\]  
+*Dhruvesh Patel\*, Shib Sankar Dasgupta\*, Michael Boratko, Xiang Lorraine Li, Luke Vilnis, Andrew McCallum.* (**COLING 2020**) \[[paper](https://www.aclweb.org/anthology/2020.coling-main.110/)\]  
 
 
 ### Visual Perception
