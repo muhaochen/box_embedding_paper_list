@@ -24,7 +24,7 @@ This is an (incomplete) paper list about recent advances of (Probablistic) Box E
 *Dhruvesh Patel\*, Shib Sankar Dasgupta\*, Michael Boratko, Xiang Lorraine Li, Luke Vilnis, Andrew McCallum.* (**AKBC 2020**) \[[paper](https://openreview.net/pdf?id=J246NSqR_l)\]  
 
 1. **``Probabilistic Box Embeddings for Uncertain Knowledge Graph Reasoning.``**  
-*Xuelu Chen\*, Michael Boratko\*, Muhao Chen, Shib Sankar Dasgupta, Xiang Lorraine Li, Andrew McCallum.* (**NAACL 2021**) \[[paper](TBA)\]\[[repo](https://github.com/stasl0217/beurre)\]  
+*Xuelu Chen\*, Michael Boratko\*, Muhao Chen, Shib Sankar Dasgupta, Xiang Lorraine Li, Andrew McCallum.* (**NAACL 2021**) \[[paper](https://arxiv.org/pdf/2104.04597.pdf)\]\[[repo](https://github.com/stasl0217/beurre)\]  
 
 
 ### Information Extraction
