@@ -20,14 +20,20 @@ This is an (incomplete) paper list about recent advances of (Probablistic) Box E
 1. **``Query2box: Reasoning Over Knowledge Graphs In Vector Space Using Box Embeddings.``**  
 *H Ren, W Hu, J Leskovec.* (**ICLR 2020**) \[[paper](https://openreview.net/pdf/fe83d2016118d370eb96ed4781cda179f98f8b64.pdf)\]  
 
-1. **``Embedding Semantic Taxonomies.``**  
-*Dhruvesh Patel\*, Shib Sankar Dasgupta\*, Michael Boratko, Xiang Lorraine Li, Luke Vilnis, Andrew McCallum.* (**COLING 2020**) \[[paper](https://www.aclweb.org/anthology/2020.coling-main.110/)\]  
-
 1. **``Representing Joint Hierarchies with Box Embeddings.``**  
 *Dhruvesh Patel\*, Shib Sankar Dasgupta\*, Michael Boratko, Xiang Lorraine Li, Luke Vilnis, Andrew McCallum.* (**AKBC 2020**) \[[paper](https://openreview.net/pdf?id=J246NSqR_l)\]  
 
 1. **``Probabilistic Box Embeddings for Uncertain Knowledge Graph Reasoning.``**  
 *Xuelu Chen\*, Michael Boratko\*, Muhao Chen, Shib Sankar Dasgupta, Xiang Lorraine Li, Andrew McCallum.* (**NAACL 2021**) \[[paper](https://arxiv.org/pdf/2104.04597.pdf)\]\[[repo](https://github.com/stasl0217/beurre)\]  
+
+
+### Information Extraction  
+
+1. **``Embedding Semantic Taxonomies.``**  
+*Dhruvesh Patel\*, Shib Sankar Dasgupta\*, Michael Boratko, Xiang Lorraine Li, Luke Vilnis, Andrew McCallum.* (**COLING 2020**) \[[paper](https://www.aclweb.org/anthology/2020.coling-main.110/)\]  
+
+1. **``Modeling Fine-Grained Entity Types with Box Embeddings.``**  
+*Yasumasa Onoe, Michael Boratko, Andrew McCallum, Greg Durrett.* (**ACL-IJCNLP 2021**) \[[paper](https://arxiv.org/pdf/2101.00345.pdf)\]  
 
 
 ### Visual Perception
